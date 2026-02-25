@@ -1,6 +1,6 @@
 Portfólio Lucas Barbosa.
 
-## Acesse através desse link
+Clique no link e veja meu portfólio:
 https://lucasbarbosaarts.github.io/-lucasbarbosaportfolio
 
 ## License
